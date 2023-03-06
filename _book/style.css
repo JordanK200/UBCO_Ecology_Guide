@@ -12,3 +12,9 @@ pre {
 pre code {
   white-space: inherit;
 }
+nav > ul > li:first-of-type {
+  background:   #9ffc97  !important;
+}
+li.part > span, h1, h2 {
+	color: #578c53 !important;
+}

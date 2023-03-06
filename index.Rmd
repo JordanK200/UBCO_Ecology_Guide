@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "UBCO Ecology of Campus Guide"
+author: "Jordan Katchen and Ian Sanga"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -13,48 +13,64 @@ description: |
   set in the _output.yml file.
 link-citations: yes
 github-repo: rstudio/bookdown-demo
+output: 
+  bookdown::gitbook:
+    includes:
+      in_header: google_analytics.html
 ---
 
 # About
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+**BIOL420N Preplan – Ecology of campus**
 
-## Usage 
+_Jordan Katchen and Ian Sanga_
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
-
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
-
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
-
-## Render book
-
-You can render the HTML version of this example book without changing anything:
-
-1. Find the **Build** pane in the RStudio IDE, and
-
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
-
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
+<span style="text-decoration:underline;">[1] Topic</span>
 
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+
+* Ecology of campus
+    * Checklist / Guide — A guide that shows some cool / interesting plants, fungi, and animals that can be found on campus.
+        * Ten examples from each category: plants, birds, mammals, insects, and fungi.
+        * Where specifically on campus to look.
+        * Gives Information on what you are looking for:
+            * Common name
+            * Latin name
+            * Picture
+            * Written description
+            * Special information on invasive species
+            * Call / Footprint (if applicable)
+            * Indigenous significance (if applicable)
+        * Highlight endangered, threatened, and invasive species that can be found in the community.
+
+<span style="text-decoration:underline;">[2] Audience</span>
+
+People on the UBCO campus who are interested in local ecology. Mainly, undergraduate students looking to improve their knowledge of local ecology and/or get into the hobby of naturalism. While students in Biology, Zoology, EESC, and Ecology might already be aware of the species around them and are interested, it would be good to target people in different programs who don’t have that knowledge integrated into their coursework or previous interest. For example, even though we are both in the life sciences there’s really no required courses aside from first year biology and one of the three options in second year that touch on ecology so unless they take it as an elective many upper year Biochem/Microbio students may not remember much.
+
+<span style="text-decoration:underline;">[3] Motivation</span>
+
+Entertainment, Engagement, Education
+
+Show people the interesting wildlife around them and hopefully help them understand how rich the ecosystem is even in an environment as urban(?) as a campus; foster a love for ecology in people by encouraging them to look closer at the area they live in. Encourage community members to be more mindful about how they interact with the environment, notably the trails behind campus which might be more vulnerable to disturbance since they aren’t as developed. Many interesting species around campus that the unobservant student may never think about throughout their degree (Did you know there are turtles in the pond behind EME?)
+
+<span style="text-decoration:underline;">[4] Approach</span>
+
+Create website highlighting x number of interesting animals, plants, fungi, bugs, etc
+
+“Success” can be defined by a Google Form link from the website asking people if they have previously gone birdwatching etc; how many species they have already seen on campus, and if they are now more open to being naturalists and being on the look out for flora and fauna on campus
+
+We will start by trying to use [GitHub Pages](https://docs.github.com/en/pages) and [RShinny](https://shiny.rstudio.com) to create our website. We will look for additional software where needed. We may also use the databases iNaturalist and GBIF to provide information and data on species.
+
+We will also consult local expert knowledge from: Jason Pither, David Ensing, Robert Lalonde. These experts will help provide advice on which local organisms to highlight. 
+
+Have contacted an ecology lab working in the Okanagan for ideas and will get back to us on potentially interesting ideas and species for our website; one of the former grad students in the lab is now doing his PhD focused on citizen science and I would think that synergizes with out current goal of encouraging the campus community to care more about ecology
+
+Social media promotion can be through Stories on Instagram or links from pages; I can make graphics on Canva and Biorender to either help with the campaign to actually get people onto the website as well as for actual content onto the website itself
+
+<span style="text-decoration:underline;">[5] Targeting approach</span>
+
+We are planning to use course unions, student clubs, and maybe even FOS instagram.
+
+CCU, BCCU, and other science-y course unions should be easy sells on promoting the website on their Instagram (If not I have the log-in for the CCU insta). Mainly targeting the campus community so advertising on campus-focused social media accounts would be the easiest way to reach out. Wildlife Society is present and active on campus and on Instagram - could reach out for help or collaboration, they already do some citizen science work around the community.
+
+iGEM is another potential “partner” though they aren’t as ecology-focused. We could also try targeting incoming international students and/or exchange students, as this is a great opportunity to explore campus and get acquainted with the local ecology.
