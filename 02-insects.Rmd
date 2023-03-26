@@ -6,8 +6,47 @@ output:
 ---
 
 # Insects
+
 ## Cyphocleonus Achates
+The knapweed root weevil is a fascinating species of weevil that has captured the attention of ecologists and entomologists alike. This beetle has a unique ability to control invasive plant populations, specifically knapweeds. They are used in BC as a biocontrol agent; meaning that while they are an introduced species they are actually beneficial to the ecosystem since they consume and control populations of invasive knapweeds that can outcompete native species as well as taking up nutrients from the soil that can be used by livestock and crops.
+
+```{r echo=FALSE, fig.cap="Image of Cyphocleonus Achates. Image taken by [malreux](https://www.inaturalist.org/photos/24907280), CC BY-NC 4.0 <https://creativecommons.org/licenses/by-nc/4.0/>, via iNaturalist. Hot spot for Cyphocleonus Achates on campus.", out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("insect_images/cyphocleonus_11.jpg", "insect_images/cyphocleonus_hotspot_11.png"))
+```
+
 ## European Mantis
+
+While this member of the Mantidae family may seem delicate, it is anything but; from the female eating the male’s head after mating to the fact that it is an invasive species to North America, this insect is quite the pest. It was first introduced into North America in the 1900s as a biocontrol agent for gypsy moths but has since spread throughout the continent; this is a problem as it predates native insects, disrupting the local ecosystem.
+
+```{r echo=FALSE, fig.cap="Image of European Mantis (Mantis religiosa). Image taken by [Bob Lalonde](https://www.inaturalist.org/photos/60515212), CC BY-NC 4.0 <https://creativecommons.org/licenses/by-nc/4.0/>, via iNaturalist. Hot spot for European Mantis on campus.", out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("insect_images/mantis_11.jpg", "insect_images/mantis_hotspot_11.png"))
+```
+
 ## Asian Lady Bug
+The Asian ladybug is a fascinating insect that has become a common sight in North America, including right here on campus. Originally introduced as a biological control for pests, such as aphids, this ladybug has since become well-established in many regions. These insects are quite different from the native ladybugs that most people are familiar with, as they can vary in coloration from orange to black and even have spots or stripes. They also have a peculiar habit of aggregating in large numbers during the fall, often seeking shelter in buildings and homes. While they may provide some benefits as predators of pests, their impact on native ladybug species and potential harm to agricultural crops is still being studied by ecologists.
+
+```{r echo=FALSE, fig.cap="Image of Asian Lady Bug (Harmonia axyridis). Image taken by [kalvinchan](https://www.inaturalist.org/photos/230709327), CC BY-NC 4.0 <https://creativecommons.org/licenses/by/4.0/>, via iNaturalist. Hot spot for Asian Lady Bug on campus.", out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("insect_images/lady_11.jpeg", "insect_images/lady_hotspot_11.png"))
+```
+
 ## Leopard Slug
+Welcome to the world of the Leopard Slug, a slimy and fascinating creature that is sure to capture your attention! This impressive gastropod, also known as Limax maximus, is a true wonder of the animal kingdom. With its distinctive leopard-like spots and elongated body that can stretch up to 8 inches long, it's hard to miss this incredible slug. Found in various parts of the world, including Europe, Asia, and North America, the Leopard Slug is not your average garden pest. Instead, it's a master of disguise, using its unique coloration and shape to blend seamlessly into its surroundings. So if you're ready to learn more about this slimy superstar, keep an eye out when your walking around campus next time it rains!
+
+```{r echo=FALSE, fig.cap="Image of Leopard Slug (Limax maximus). Image taken by [Jason Alexander](https://www.inaturalist.org/photos/80439924), CC BY-NC 4.0 <https://creativecommons.org/licenses/by-nc/4.0/>, via iNaturalist. Hot spot for Leopard Slug on campus.", out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("insect_images/slug_11.jpg", "insect_images/slug_hotspot_11.png"))
+```
+
 ## California Broad Necked Beetle
+The California broad-necked beetle is a stunning insect that is native to the western region of North America. This beetle is around 12-15mm in length and has a unique shape that sets it apart from other beetles. Its broad, flattened neck gives it an almost distinct hourglass shape and its metallic green coloration adds to its beauty. The California broad-necked beetle can usually be found on the flowers and foliage of oak trees, primarily in the late spring and early summer months. It serves as an important part of the ecosystem by pollinating and aiding in the decomposition process. Sightings have been spread all throughout campus even up on Old Pine Trail so watch your step!
+
+```{r echo=FALSE, fig.cap="Image of California broad-necked beetle (Coelocnemis dilaticollis). Image taken by [kalvinchan](https://www.inaturalist.org/photos/233670239), CC BY-NC 4.0 <https://creativecommons.org/licenses/by/4.0/>, via iNaturalist. Hot spot for California broad-necked beetle on campus.", out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("insect_images/cali_beet_11.jpg", "insect_images/cali_beet_hotspot_11.png"))
+```
+
+## Location
+
+<div class="map-responsive">
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11PYhsV-ntT5O_CSmY8aGnT9pU8gHFqo&ehbc=2E312F" width="600" height="800" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+</div>

@@ -21,6 +21,12 @@ output:
 
 # About
 
+<div class="map-responsive">
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11PYhsV-ntT5O_CSmY8aGnT9pU8gHFqo&ehbc=2E312F" width="600" height="800" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+</div>
+
 **BIOL420N Preplan – Ecology of campus**
 
 _Jordan Katchen and Ian Sanga_
