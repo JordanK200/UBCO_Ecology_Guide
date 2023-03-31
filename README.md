@@ -1,13 +1,11 @@
 Welcome! 
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This is GitHub Contains the code for UBCO’s campus ecology guide created by Ian Sanga and Jordan Katchen.
 
-This template provides a skeleton file structure that you can edit to create your book. 
+Feel free to provide comments and feedback in the issues tab.
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
+The data for this project has been sourced from [iNaturalist](https://www.inaturalist.org/). A special thanks to the members of [UBC Okanagan BioInventory](https://www.inaturalist.org/projects/ubc-okanagan-bioinventory) who provided many of the locations and photos included in this assignment. All attributions are provided alongside associated images.
 
-Additional resources:
+This project was created for the UBCO course *BIOL420N: Science in Digital Media*. Shout out to Dr. Robin Young for offering such a fun and creative course!
 
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
