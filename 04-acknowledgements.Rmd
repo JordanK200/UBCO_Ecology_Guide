@@ -1,0 +1,27 @@
+---
+output: 
+  bookdown::gitbook:
+    includes:
+      in_header: google_analytics.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Acknowledgements
+Thank you to iNaturalist and its contributors for the data needed for this project:
+
+```{r echo=FALSE, out.width="99%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("partner_images/inat.png"))
+```
+
+Special thanks to our campus partners:
+
+```{r echo=FALSE, out.width="99%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("partner_images/wild-ccu.png"))
+```
+
+```{r echo=FALSE, out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("partner_images/micbio.png", "partner_images/igem.png"))
+```

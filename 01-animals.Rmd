@@ -5,16 +5,47 @@ output:
       in_header: google_analytics.html
 ---
 
-# Animals
+# Animals (Vertebrates)
+
+## Red-tailed Hawk
+This majestic bird of prey may be smaller than its more famous cousin, the bald eagle, but it is no less a sight to see when you encounter it. Red-tailed Hawks (*Buteo jamaicensis*) are generalists meaning they eat everything from small rodents to insects (including some of the insects we’re about to explore in this guide!). Their name comes from, you guessed it, the red tail feathers! These raptors are found everywhere on campus and beyond, so if you’re on the lookout, they shouldn’t be too hard to spot.
+
+```{r echo=FALSE, fig.cap="Image of Red-tailed Hawk (*Buteo jamaicensis*). Image taken by [Bob Lalonde](https://www.inaturalist.org/photos/60514571), [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), via iNaturalist. Hot spot for Red tailed Hawk on campus.", out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("animal_images/hawk_11.jpg", "animal_images/hawk_hotspot_11.png"))
+```
+
+## Great Horned Owl
+This cool-looking bird may not give you sage advice like in Winnie the Pooh, but it is a nice encounter nonetheless! The Great Horned Owl (*Bubo virginianus*) is believed to have migrated to North America from Eurasia back when there was a land bridge connecting what is now Alaska and Russia; they often share the same habitat and prey as the Red-Tailed Hawk, so if you see one, then you’ll probably encounter the other. While the owl is cool, it can be a bit creepy when you hear it hooting around you when walking Pine Trail after a night lab…
+
+```{r echo=FALSE, fig.cap="Image of Great Horned Owl (*Bubo virginianus*). Image taken by [Bob Lalonde](https://www.inaturalist.org/photos/260429890), [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), via iNaturalist. Hot spot for Great Horned Owl on campus.", out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("animal_images/owl_11.jpg", "animal_images/owl_hotspot_11.png"))
+```
+
+## Northern Pacific Tree Frog
+Say hello to the Northern Pacific Tree Frog (*Pseudacris regilla*), a charming and slimy amphibian that is native to the Pacific Northwest. Found throughout western North America, including the forests and wetlands of Canada, this little green frog is known for its distinctive ribbiting call that can be heard echoing through the woods on warm summer nights. Despite its small size, the Northern Pacific Tree Frog is a mighty survivor, capable of hibernating through long, cold Canadian winters and thriving in a variety of aquatic and terrestrial habitats. These frogs are also an important indicator of environmental health, with declines in their populations signaling potential problems in wetland ecosystems. So if you're lucky enough to spot a Northern Pacific Tree Frog on your next stroll on campus, take a moment to appreciate this remarkable little creature and the important role it plays in the country's natural landscape!
+
+```{r echo=FALSE, fig.cap="Image of Northern Pacific Tree Frog (*Pseudacris regilla*). Image taken by [Bob Lalonde](https://www.inaturalist.org/photos/60514377), [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), via iNaturalist. Hot spot for Northern Pacific Tree Frog on campus.", out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("animal_images/forg_11.jpg", "animal_images/forg_hotspot_11.png"))
+```
+
+## Painted Turtle
+Introducing the Western Painted Turtle (*Chrysemys picta* ssp. *bellii*), a colorful and cute reptile that is native to Canada and found in many of the country's freshwater habitats. These turtles are true works of art, with intricate patterns and bright colors that resemble those of a painting. They are also fascinating creatures, capable of spending long periods of time underwater and surviving in environments that are inhospitable to many other animals. However, despite their resilience, Western Painted Turtles face many threats, including habitat loss, climate change, and pollution. This has led to declines in their populations in some parts of Canada, making conservation efforts more important than ever. So if you're lucky enough to spot a Western Painted Turtle around EME, cherish the sight because they are at risk!
+
+```{r echo=FALSE, fig.cap="Image of Western Painted Turtle (*Chrysemys picta* ssp. *bellii*). Image taken by [Kalvin Chan](https://www.inaturalist.org/photos/123339228), [CC BY-NC 4.0](https://creativecommons.org/licenses/by/4.0/), via iNaturalist. Hot spot for Western Painted Turtle on campus.", out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("animal_images/turt_11.jpg", "animal_images/turt_hotspot_11.png"))
+```
+
+## Mule Deer
+Meet the Mule Deer (*Odocoileus hemionus*), a striking and iconic species of deer that roams throughout the forests and mountains of Canada. Known for their large ears that resemble those of a mule, these deer are a common sight for Canadians who enjoy hiking and camping in the great outdoors. Despite their size and strength, Mule Deer are graceful creatures, able to bound over fallen logs and navigate rocky terrain with ease. They are also an important part of the country's hunting traditions, with regulated hunting seasons in many provinces helping to manage their populations. However, with growing concerns about habitat loss and climate change, the future of Mule Deer in Canada remains uncertain.
+
+```{r echo=FALSE, fig.cap="Image of Mule Deer (*Odocoileus hemionus*). Image taken by [Kalvin Chan](https://www.inaturalist.org/photos/224918782), [CC BY-NC 4.0](https://creativecommons.org/licenses/by/4.0/), via iNaturalist. Hot spot for Mule Deer on campus.", out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("animal_images/deer_11.jpg", "animal_images/deer_hotspot_11.png"))
+```
+
+## Location
 
 <div class="map-responsive">
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1SuZEjm7zg7D71m4gKBNUPDFJh7ipuL4&ehbc=2E312F" width="600" height="800" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1SuZEjm7zg7D71m4gKBNUPDFJh7ipuL4&ehbc=2E312F" width="600" height="800" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 </div>
-
-## Redtailed Hawk
-## Great Horned Owl
-## Northern Pacific Tree Frog
-## Painted Turtle
-## Mule Deer
